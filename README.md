@@ -1,5 +1,7 @@
 # sample-ci
 
+[![armeninants](https://circleci.com/gh/armeninants/sample-ci.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+
 ## Execute  
 
 * Run `stack exec -- sample-ci-exe` to see "We're inside the application!"
