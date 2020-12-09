@@ -1,6 +1,6 @@
 # sample-ci
 
-[![armeninants](https://circleci.com/gh/armeninants/sample-ci.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs)
+[![armeninants](https://circleci.com/gh/armeninants/sample-ci.svg?style=shield)](https://circleci.com/gh/armeninants/sample-ci)
 
 
 ## Execute  
